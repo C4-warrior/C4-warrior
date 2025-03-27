@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+I'm the king of ruby and the don of objects.
+
 <!--
 **C4-warrior/C4-warrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
